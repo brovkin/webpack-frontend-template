@@ -8,7 +8,9 @@
 <br/>
 <br/>
 
-![GitHub release](https://img.shields.io/github/release/brovkin/webpack-frontend-template.svg)
+![GitHub release](https://img.shields.io/github/release/brovkin/webpack-frontend-template)
+![GitHub issues](https://img.shields.io/github/issues/brovkin/webpack-frontend-template)
+
 ![GitHub stars](https://img.shields.io/github/stars/brovkin/webpack-frontend-template.svg?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/brovkin/webpack-frontend-template.svg?style=social)
 
