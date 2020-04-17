@@ -1,6 +1,6 @@
 ## Webpack готовая сборка под frontend
 
-<div align="center">
+<div>
     <a href="https://github.com/webpack/webpack">
         <img width="150" height="150" src="https://webpack.js.org/assets/icon-square-big.svg">
     </a>
@@ -16,7 +16,7 @@
 
 * используется [Babel](https://babeljs.io/) для поддержки современного JavaScript (ES6) в браузерах
 * выбираете любой препроцессор SASS/SCSS/LESS
-* ваш css и js оптимизируется и минифицируется
+* ваш CSS и JS оптимизируется и минифицируется
 * установлен пакет webpack-dev-server - вам не потребуется постоянно перезагружать браузер
 * поддержка [TypeScript](https://www.typescriptlang.org/)
 * анализ вашего бандла с помощью пакета [webpack-bundle-analyzer](https://www.npmjs.com/package/webpack-bundle-analyzer) | команда ```npm run stats```
@@ -46,8 +46,6 @@ webpack-frontend-template
 
 
 ## Команды
-
-* ```yarn run lint:styles --fix``` - исправить ошибки в SCSS-файлах
 
 * ```npm run dev``` - собираем development
 * ```npm run build``` - собираем production
