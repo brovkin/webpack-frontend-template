@@ -1,4 +1,4 @@
-## Webpack готовая сборка под frontend
+## Готовая сборка Webpack
 
 <div>
     <a href="https://github.com/webpack/webpack">
