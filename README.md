@@ -71,7 +71,3 @@ npm start
 * ВКонтакте: [@artembrovkin](https://vk.com/artembrovkin)
 * Instagram: [@brovkin_artem](https://www.instagram.com/brovkin_artem/)
 
-## Сайт
-### [brozabro.ru](https://brozabro.ru)
-
-
