@@ -1,4 +1,4 @@
-## Готовая сборка Webpack
+## Готовая сборка Webpack 5
 
 <div>
     <a href="https://github.com/webpack/webpack">
@@ -34,12 +34,14 @@ webpack-frontend-template
 │       └── images
 │   ├── styles
 │   ├── index.html
-│   └── index.js
+│   └── index.ts
 ├── webpack.config.js
 ├── package.json
+├── .editorconfig
+├── .eslintignore
+├── .eslintrc.json
 ├── .gitignore
-├── .eslintrc
-└── .gitignore
+└── .prettierrc
 ```
 
 > В зависимости от фреймворка, вы можете переделать организацию файлов в папке src т.к. обычно она отличается
@@ -47,27 +49,28 @@ webpack-frontend-template
 
 ## Команды
 
-* ```npm run dev``` - собираем development
-* ```npm run build``` - собираем production
-* ```npm start``` - слежение за файлами и открываем в браузере
-* ```npm run stats``` - смотрим размеры и статы бандла
+* ```yarn run dev``` - собираем development
+* ```yarn run build``` - собираем production
+* ```yarn start``` - слежение за файлами и открываем в браузере
+* ```yarn run stats``` - смотрим размеры и статы бандла
 
 ## Установка
 
 Установим все необходимые пакеты из package.json
 
 ```bash
-npm install
+yarn install
 ```
 
 Запускаем
 
 ```bash
-npm start
+yarn start
 ```
 
 ## Связаться со мной
 
 * ВКонтакте: [@artembrovkin](https://vk.com/artembrovkin)
 * Instagram: [@brovkin_artem](https://www.instagram.com/brovkin_artem/)
+
 
