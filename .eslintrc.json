@@ -16,5 +16,8 @@
     },
     "ecmaVersion": 2015,
     "sourceType": "module"
+  },
+  "rules": {
+    "@typescript-eslint/no-var-requires": 0
   }
 }
